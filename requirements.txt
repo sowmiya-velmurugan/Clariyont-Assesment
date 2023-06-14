@@ -1,0 +1,6 @@
+flask
+flask-mongoengine
+requests
+python-dotenv
+ml_component
+pandas
